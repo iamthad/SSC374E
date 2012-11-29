@@ -1,0 +1,107 @@
+2012-10-28 15:21:16 Finished executing [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/logs] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/logs attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [mkdir cookies]... -- by [action].
+2012-10-28 15:21:16 mkdir cookies is not satisfied... -- by [action].
+2012-10-28 15:21:16 About to execute [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/cookies] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 Finished executing [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/cookies] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/cookies attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [mkdir preferences]... -- by [action].
+2012-10-28 15:21:16 mkdir preferences is not satisfied... -- by [action].
+2012-10-28 15:21:16 About to execute [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 Finished executing [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences attempt succeeded... -- by [action].
+2012-10-28 15:21:16 cd-ing from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o] to [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences]... -- by [cd].
+2012-10-28 15:21:16 Attempt to satisfy [text file v]... -- by [action].
+2012-10-28 15:21:16 text file v is not satisfied... -- by [action].
+2012-10-28 15:21:16 text file /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences/v attempt succeeded... -- by [action].
+2012-10-28 15:21:16 cd-ing from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences] to [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]... -- by [cd].
+2012-10-28 15:21:16 cd-ing from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o] to [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences]... -- by [cd].
+2012-10-28 15:21:16 Attempt to satisfy [text file retry]... -- by [action].
+2012-10-28 15:21:16 text file retry is not satisfied... -- by [action].
+2012-10-28 15:21:16 text file /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences/retry attempt succeeded... -- by [action].
+2012-10-28 15:21:16 cd-ing from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences] to [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]... -- by [cd].
+2012-10-28 15:21:16 cd-ing from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o] to [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences]... -- by [cd].
+2012-10-28 15:21:16 Attempt to satisfy [text file setups]... -- by [action].
+2012-10-28 15:21:16 text file setups is not satisfied... -- by [action].
+2012-10-28 15:21:16 text file /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences/setups attempt succeeded... -- by [action].
+2012-10-28 15:21:16 cd-ing from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences] to [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]... -- by [cd].
+2012-10-28 15:21:16 cd-ing from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o] to [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences]... -- by [cd].
+2012-10-28 15:21:16 Attempt to satisfy [text file ask]... -- by [action].
+2012-10-28 15:21:16 text file ask is not satisfied... -- by [action].
+2012-10-28 15:21:16 text file /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences/ask attempt succeeded... -- by [action].
+2012-10-28 15:21:16 cd-ing from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/preferences] to [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]... -- by [cd].
+2012-10-28 15:21:16 Attempt to satisfy [mkdir htmls]... -- by [action].
+2012-10-28 15:21:16 mkdir htmls is not satisfied... -- by [action].
+2012-10-28 15:21:16 About to execute [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/htmls] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 Finished executing [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/htmls] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/htmls attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [mkdir snapshots]... -- by [action].
+2012-10-28 15:21:16 mkdir snapshots is not satisfied... -- by [action].
+2012-10-28 15:21:16 About to execute [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/snapshots] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 Finished executing [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/snapshots] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/snapshots attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [mkdir downloads]... -- by [action].
+2012-10-28 15:21:16 mkdir downloads is not satisfied... -- by [action].
+2012-10-28 15:21:16 About to execute [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/downloads] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 Finished executing [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/downloads] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/downloads attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [mkdir registry]... -- by [action].
+2012-10-28 15:21:16 mkdir registry is not satisfied... -- by [action].
+2012-10-28 15:21:16 About to execute [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/registry] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 Finished executing [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/registry] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/registry attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [mkdir tmp]... -- by [action].
+2012-10-28 15:21:16 mkdir tmp is not satisfied... -- by [action].
+2012-10-28 15:21:16 About to execute [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/tmp] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 Finished executing [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/tmp] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/tmp attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [mkdir saves]... -- by [action].
+2012-10-28 15:21:16 mkdir saves is not satisfied... -- by [action].
+2012-10-28 15:21:16 About to execute [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/saves] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 Finished executing [mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/saves] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o]. -- by [shell-all].
+2012-10-28 15:21:16 mkdir /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/saves attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [text file tar]... -- by [action].
+2012-10-28 15:21:16 text file tar is not satisfied... -- by [action].
+2012-10-28 15:21:16 text file /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/tar attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [local registry saved to o..pacman..o/registry]... -- by [action].
+2012-10-28 15:21:16 local registry saved to o..pacman..o/registry is not satisfied... -- by [action].
+2012-10-28 15:21:16 local registry saved to o..pacman..o/registry attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [text file htmls/index.html]... -- by [action].
+2012-10-28 15:21:16 text file htmls/index.html is not satisfied... -- by [action].
+2012-10-28 15:21:16 text file /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/htmls/index.html attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Attempt to satisfy [copy $PACMAN_LOCATION/htmls/sky.gif -> htmls]... -- by [action].
+2012-10-28 15:21:16 copy $PACMAN_LOCATION/htmls/sky.gif -> htmls is not satisfied... -- by [action].
+2012-10-28 15:21:16 copy $PACMAN_LOCATION/htmls/sky.gif -> htmls attempt succeeded... -- by [action].
+2012-10-28 15:21:16 cd-ing from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o] to [/home/02158/thadeus/SSC374E/Project/VTKBin]... -- by [cd].
+2012-10-28 15:21:16 Attempt to satisfy [text file trusted.caches]... -- by [action].
+2012-10-28 15:21:16 text file trusted.caches is not satisfied... -- by [action].
+2012-10-28 15:21:16 text file /home/02158/thadeus/SSC374E/Project/VTKBin/trusted.caches attempt succeeded... -- by [action].
+2012-10-28 15:21:16 Reading [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/ii3.2], database type ['']... -- by [io].
+2012-10-28 15:21:16 Reading installation database... -- by [io].
+2012-10-28 15:21:16 Using [tar (GNU tar) 1.15.1]. -- by [tar].
+2012-10-28 15:21:16 Saving [/home/02158/thadeus/SSC374E/Project/VTKBin]... -- by [io].
+2012-10-28 15:21:16 [3182379] Megs of disk space free at the end of the installation. -- by [io].
+2012-10-28 15:21:25 Using registry from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/registry/registry]... -- by [registry].
+2012-10-28 15:21:25 No http proxy in use... -- by [http].
+2012-10-28 15:21:40 Using registry from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/registry/registry]... -- by [registry].
+2012-10-28 15:21:40 No http proxy in use... -- by [http].
+2012-10-28 15:21:40 Using [tar (GNU tar) 1.15.1]. -- by [tar].
+2012-10-28 15:21:40 About to execute [cd /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o; gcc glibcversion.c] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin]. -- by [shell-all].
+2012-10-28 15:21:40 Finished executing [cd /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o; gcc glibcversion.c] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin]. -- by [shell-all].
+2012-10-28 15:21:40 About to execute [cd /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o; ./a.out > glibcversion] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin]. -- by [shell-all].
+2012-10-28 15:21:40 Finished executing [cd /home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o; ./a.out > glibcversion] as user [thadeus] at [/home/02158/thadeus/SSC374E/Project/VTKBin]. -- by [shell-all].
+2012-10-28 15:21:40 Reading [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/ii3.2], database type ['']... -- by [io].
+2012-10-28 15:21:40 Reading installation database... -- by [io].
+2012-10-28 15:21:40 Using [tar (GNU tar) 1.15.1]. -- by [tar].
+2012-10-28 15:21:40 Saving [/home/02158/thadeus/SSC374E/Project/VTKBin]... -- by [io].
+2012-10-28 15:21:40 [3182379] Megs of disk space free at the end of the installation. -- by [io].
+2012-10-28 15:21:44 Using registry from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/registry/registry]... -- by [registry].
+2012-10-28 15:21:44 No http proxy in use... -- by [http].
+2012-10-28 15:21:44 Using [tar (GNU tar) 1.15.1]. -- by [tar].
+2012-10-28 15:21:44 Reading [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/ii3.2], database type ['']... -- by [io].
+2012-10-28 15:21:44 Reading installation database... -- by [io].
+2012-10-28 15:21:44 Using [tar (GNU tar) 1.15.1]. -- by [tar].
+2012-10-28 15:21:44 Saving [/home/02158/thadeus/SSC374E/Project/VTKBin]... -- by [io].
+2012-10-28 15:21:44 [3182379] Megs of disk space free at the end of the installation. -- by [io].
+2012-10-28 15:22:35 Using registry from [/home/02158/thadeus/SSC374E/Project/VTKBin/o..pacman..o/registry/registry]... -- by [registry].
+2012-10-28 15:22:35 No http proxy in use... -- by [http].
